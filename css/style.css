@@ -52,6 +52,7 @@ body{
     }
     #Menu {
         display: flex;
+        color 
         align-items: center;
         justify-content: center;
         height: 2em;
